@@ -1,0 +1,21 @@
+{
+  "name": "fianlterm_report_draft",
+  "version": "0.1.0",
+  
+  // 👈 這一行就是 "homepage"
+  "homepage": "https://zxcvbnm010043-bot.github.io/fianlterm_report_draft", 
+  
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "recharts": "^2.10.3",
+    // ... 其他套件
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
+    // ...
+  },
+  // ... 其他內容
+}
