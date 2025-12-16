@@ -1,0 +1,10 @@
+{
+  "name": "your-project-name",
+  "version": "0.1.0",
+  // 👈 在這裡新增這行
+  "homepage": "https://zxcvbnm010043-bot.github.io/fianlterm_report_draft", 
+  "dependencies": {
+    // ...
+  },
+  // ...
+}
